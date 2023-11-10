@@ -1,6 +1,6 @@
-# HackerRank Solutions 💻🌟
+# HackerRank Solutions 💻🚀
 
-This repository is a collection of Python solutions to various HackerRank problems. Each solution comes with in-code explanations. Dive in, explore, and level up your coding skills! 🚀
+Welcome to my collection of Python solutions for HackerRank problems. Each solution is designed to be clear and efficient. Dive in, explore, and enhance your coding skills! 🌟
 
 ## Table of Contents 📚
 
@@ -19,60 +19,60 @@ This repository is a collection of Python solutions to various HackerRank proble
 
 [Problem Link](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
 
-**Solution**: [arraysum.py](arraysum.py) 🌈 (Includes in-code explanations)
+**Solution**: [arraysum.py](arraysum.py)
 
 ## 2. A Very Big Sum
 
 [Problem Link](https://www.hackerrank.com/challenges/a-very-big-sum/problem?isFullScreen=true)
 
-**Solution**: [bigsum.py](bigsum.py) 🌟 (Includes in-code explanations)
+**Solution**: [bigsum.py](bigsum.py)
 
 ## 3. StairCase
 
 [Problem Link](https://www.hackerrank.com/challenges/staircase/problem?isFullScreen=true)
 
-**Solution**: [staircase.py](staircase.py) 🚀 (Includes in-code explanations)
+**Solution**: [staircase.py](staircase.py)
 
 ## 4. Time Conversion
 
 [Problem Link](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=true)
 
-**Solution**: [timeconversion.py](timeconversion.py) ⌛ (Includes in-code explanations)
+**Solution**: [timeconversion.py](timeconversion.py)
 
 ## 5. Mini-Max Sum
 
 [Problem Link](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)
 
-**Solution**: [minimax.py](minimax.py) 🎲 (Includes in-code explanations)
+**Solution**: [minimax.py](minimax.py)
 
 ## 6. Birthday Cake Candles
 
 [Problem Link](https://www.hackerrank.com/challenges/birthday-cake-candles/problem?isFullScreen=true)
 
-**Solution**: [birthdaycake.py](birthdaycake.py) 🎂 (Includes in-code explanations)
+**Solution**: [birthdaycake.py](birthdaycake.py)
 
 ## 7. Plus Minus
 
 [Problem Link](https://www.hackerrank.com/challenges/plus-minus/problem?isFullScreen=true)
 
-**Solution**: [plusminus.py](plusminus.py) ➕➖ (Includes in-code explanations)
+**Solution**: [plusminus.py](plusminus.py)
 
 ## 8. Diagonal Difference
 
 [Problem Link](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)
 
-**Solution**: [diagonaldifference.py](diagonaldifference.py) 🔍 (Includes in-code explanations)
+**Solution**: [diagonaldifference.py](diagonaldifference.py)
 
 ## 9. Compare the Triplets
 
 [Problem Link](https://www.hackerrank.com/challenges/compare-the-triplets/problem?isFullScreen=true)
 
-**Solution**: [triplets.py](triplets.py) 🤝 (Includes in-code explanations)
+**Solution**: [triplets.py](triplets.py)
 
 ## 10. Electronics Shop
 
 [Problem Link](https://www.hackerrank.com/challenges/electronics-shop/problem?isFullScreen=true)
 
-**Solution**: [electronics.py](electronics.py) 🛒 (Includes in-code explanations)
+**Solution**: [electronics.py](electronics.py)
 
-Feel free to explore each problem's solution file for detailed explanations included as comments within the code. Happy Coding! 🚀✨
+Feel free to explore each problem's solution file. Happy Coding! 🚀✨
