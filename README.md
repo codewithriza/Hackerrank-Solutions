@@ -1,6 +1,6 @@
 # HackerRank Solutions 💻🚀
 
-Welcome to my collection of Python solutions for HackerRank problems. Each solution is designed to be clear and efficient. Dive in, explore, and enhance your coding skills! 🌟
+Welcome to my collection of Python solutions for HackerRank problems . 🌟
 
 ## Table of Contents 📚
 
