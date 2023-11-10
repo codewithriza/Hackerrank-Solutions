@@ -1,3 +1,8 @@
+# Hey, here's a task for you: Complete the aVeryBigSum function below. 
+# The goal is to return the sum of all elements in the given array.
+#By Riza Mohamed T
+
+
 # Importing necessary tools
 import math  
 import os 
