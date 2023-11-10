@@ -1,6 +1,6 @@
 # HackerRank Solutions 💻🌟
 
-This repository is a collection of super cool Python solutions to various HackerRank problems. Each solution comes with in-code explanations. Dive in, explore, and level up your coding skills! 🚀
+This repository is a collection of Python solutions to various HackerRank problems. Each solution comes with in-code explanations. Dive in, explore, and level up your coding skills! 🚀
 
 ## Table of Contents 📚
 
