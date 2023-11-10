@@ -1,5 +1,5 @@
 #Hacker solution of Simple Array Sum By Riza Mohamed T
-#Here is the link to the problem :- [ClickHere](https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true)
+#Here is the link to the problem :- (https://www.hackerrank.com/challenges/simple-array-sum/problem)
 # Get the count of numbers from the user and store it in 'n'.
 n = int(input().strip())
 
